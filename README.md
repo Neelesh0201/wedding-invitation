@@ -1,2 +1,1 @@
-# wedding-invitation
-swati_wedding_invitation
+# Wedding-Invitation
